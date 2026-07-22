@@ -1,86 +1,120 @@
 # Hi, I'm Surya Kant Ray 👋
 
-### 💻 CSE Student | Aspiring Software Developer | DSA Enthusiast
+### Computer Science & Engineering Student | Software Developer | DSA Enthusiast
 
-I'm a Computer Science student passionate about **problem-solving, software development, and emerging technologies**. I enjoy learning new technologies, building projects, and improving my coding skills through competitive programming and Data Structures & Algorithms.
+I'm a Computer Science & Engineering student passionate about software development, problem-solving, and emerging technologies.
 
----
-
-## 🚀 About Me
-
-* 🎓 Computer Science & Engineering student
-* 💻 Passionate about **Software Development & Problem Solving**
-* 🧠 Practicing **Data Structures & Algorithms**
-* 🌱 Currently learning and exploring **AI/ML, Web Development, and Cloud Computing**
-* 🔨 Building projects to strengthen my development and programming skills
-* 🎯 Focused on improving my coding skills and becoming a better software developer
+I enjoy building projects, solving Data Structures & Algorithms problems, and continuously improving my programming and development skills.
 
 ---
 
-## 🛠️ Tech Stack
+## About Me
 
-### 💻 Programming Languages
-
-* C++
-* Python
-* JavaScript
-
-### 🌐 Web Development
-
-* HTML5
-* CSS3
-* JavaScript
-
-### 📚 Core Concepts
-
-* Data Structures & Algorithms
-* Object-Oriented Programming
-* Problem Solving
-* Competitive Programming
-
-### 🤖 Exploring
-
-* Artificial Intelligence & Machine Learning
-* Cloud Computing
-* Data Visualization
+- 🎓 Computer Science & Engineering Student
+- 💻 Interested in Software Development and Web Development
+- 🧠 Actively practicing Data Structures & Algorithms
+- 🏆 Practicing Competitive Programming
+- 🤖 Exploring Artificial Intelligence and Machine Learning
+- ☁️ Interested in Cloud Computing
+- 📊 Exploring Data Visualization
+- 🚀 Always learning and building new projects
 
 ---
 
-## 💡 What I'm Working On
+## Technical Skills
 
-* 🔹 Improving my **DSA and Competitive Programming** skills
-* 🔹 Building **Web Development projects**
-* 🔹 Exploring **AI/ML technologies**
-* 🔹 Learning new tools and technologies to become a well-rounded developer
+### Programming Languages
 
----
+- C++
+- Python
+- JavaScript
 
-## 📊 Coding Profiles
+### Web Development
 
-💻 **LeetCode:**\
+- HTML5
+- CSS3
+- JavaScript
 
-🏆 **CodeChef:**
+### Core Concepts
 
----
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- Problem Solving
+- Competitive Programming
 
-## 🌐 Connect With Me
+### Currently Exploring
 
----
-
-## 📈 GitHub Stats
-
----
-
-## 🐍 Contribution Graph
-
----
-
-## ✨ Quote
-
-> "The only way to do great work is to love what you do."
+- Artificial Intelligence
+- Machine Learning
+- Cloud Computing
+- Data Visualization
 
 ---
 
-### ⭐ Thanks for visiting my profile!
+## Projects
 
-Feel free to explore my repositories and connect with me. I'm always open to learning, collaborating, and building something meaningful. 🚀
+Here are some areas I am currently working on:
+
+- 🌐 Web Development Projects
+- 💰 Expense Tracker Applications
+- 🛒 E-commerce Website Clones
+- 📱 Interactive Web Applications
+- 🤖 AI & Machine Learning Projects
+
+> More projects will be added as I continue building and learning.
+
+---
+
+## Coding Profiles
+
+| Platform | Profile |
+|----------|---------|
+| LeetCode | [surya1203](https://leetcode.com/u/surya1203/) |
+| CodeChef | [surya1203](https://www.codechef.com/users/surya1203) |
+
+---
+
+## Connect With Me
+
+<p align="left">
+
+<a href="https://github.com/surya0352">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+
+<a href="https://www.linkedin.com/in/surya-kant-ray/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+<a href="https://leetcode.com/u/surya1203/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
+</a>
+
+<a href="https://www.codechef.com/users/surya1203">
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef">
+</a>
+
+</p>
+
+---
+
+## GitHub
+
+You can explore my repositories to see my projects, coding practice, and learning journey.
+
+🔗 **GitHub:** [github.com/surya0352](https://github.com/surya0352)
+
+---
+
+## Current Focus
+
+```text
+Data Structures & Algorithms
+        ↓
+Competitive Programming
+        ↓
+Web Development
+        ↓
+Artificial Intelligence & Machine Learning
+        ↓
+Building Real-World Projects
